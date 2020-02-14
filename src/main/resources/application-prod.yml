@@ -1,0 +1,6 @@
+server:
+  port: 80
+
+spring:
+  application:
+    name: PROD TKM Spring Cloud Sample Service

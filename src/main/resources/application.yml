@@ -1,0 +1,8 @@
+spring:
+  profiles:
+    active: DEV
+  application:
+    name: TKM Spring Cloud Sample Service
+  data:
+    mongodb:
+      uri: mongodb+srv://devuser:AadRZuPod0McUtP1@cluster0-qlt1t.mongodb.net/spring-cloud-sample?retryWrites=true&w=majority
