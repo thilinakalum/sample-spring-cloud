@@ -5,4 +5,4 @@ spring:
     name: TKM Spring Cloud Sample Service
   data:
     mongodb:
-      uri: mongodb+srv://devuser:AadRZuPod0McUtP1@cluster0-qlt1t.mongodb.net/spring-cloud-sample?retryWrites=true&w=majority
+      uri: mongodb+srv://devuser:AadRZuPod0McUtP1@cluster0-qlt1t.mongodb.net/sample_spring_cloud?retryWrites=true&w=majority
